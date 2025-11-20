@@ -46,6 +46,18 @@
       "addedBy": "admin",
       "deactivatedAt": null,
       "deactivatedBy": null
+    },
+    {
+      "id": "arch-1763663987048",
+      "githubUsername": "murthyadari",
+      "displayName": "Murthy Adari",
+      "email": "murthy.adari@example.com",
+      "specialization": "Annoying Everyone",
+      "status": "active",
+      "addedAt": "2025-11-20T18:39:47.048Z",
+      "addedBy": "admin",
+      "deactivatedAt": null,
+      "deactivatedBy": null
     }
   ]
 }
