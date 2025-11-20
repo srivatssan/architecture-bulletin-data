@@ -25,14 +25,14 @@
   ],
   "createdAt": "2025-11-15T10:30:00.000Z",
   "createdBy": "admin",
-  "updatedAt": "2025-11-20T15:46:12.929Z",
+  "updatedAt": "2025-11-20T17:51:13.532Z",
   "updatedBy": "admin",
   "submittedAt": null,
   "submittedBy": null,
   "closedAt": null,
   "closedBy": null,
   "approvedBy": null,
-  "isArchived": true,
+  "isArchived": false,
   "archivedAt": null,
   "conversations": [
     {
