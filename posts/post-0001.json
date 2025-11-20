@@ -26,7 +26,7 @@
   ],
   "createdAt": "2025-11-15T10:30:00.000Z",
   "createdBy": "admin",
-  "updatedAt": "2025-11-20T18:42:34.422Z",
+  "updatedAt": "2025-11-20T18:43:21.354Z",
   "updatedBy": "murthyadari",
   "submittedAt": null,
   "submittedBy": null,
@@ -45,6 +45,11 @@
       "author": "architect1",
       "message": "Please review this file name....",
       "timestamp": "2025-11-20T15:43:55.882Z"
+    },
+    {
+      "author": "murthyadari",
+      "message": "Did the artifact meet the crtieria?",
+      "timestamp": "2025-11-20T18:43:20.892Z"
     }
   ],
   "proofOfWork": [
