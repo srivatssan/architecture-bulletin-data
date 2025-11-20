@@ -46,6 +46,18 @@
       "addedBy": "admin",
       "deactivatedAt": null,
       "deactivatedBy": null
+    },
+    {
+      "id": "arch-1763656488455",
+      "githubUsername": "demouser",
+      "displayName": "Demo User",
+      "email": "",
+      "specialization": "Nothing.Absolutely Nothing.",
+      "status": "active",
+      "addedAt": "2025-11-20T16:34:48.455Z",
+      "addedBy": "admin",
+      "deactivatedAt": null,
+      "deactivatedBy": null
     }
   ]
 }
