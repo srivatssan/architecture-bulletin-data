@@ -8,12 +8,14 @@
     "product-management"
   ],
   "status": "status-new",
-  "assignedArchitects": [],
+  "assignedArchitects": [
+    "Srivatssan Srinivasan (Making mistakes)"
+  ],
   "adminAssigned": false,
   "attachments": [],
   "createdAt": "2025-11-15T10:30:00.000Z",
   "createdBy": "admin",
-  "updatedAt": "2025-11-20T04:32:18.718Z",
+  "updatedAt": "2025-11-20T15:29:32.101Z",
   "updatedBy": "admin",
   "submittedAt": null,
   "submittedBy": null,
