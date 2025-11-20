@@ -58,6 +58,18 @@
       "addedBy": "admin",
       "deactivatedAt": "2025-11-20T17:49:12.992Z",
       "deactivatedBy": "admin"
+    },
+    {
+      "id": "arch-1763660981918",
+      "githubUsername": "architect4",
+      "displayName": "John Do",
+      "email": "Dodo@example.com",
+      "specialization": "Showoff",
+      "status": "active",
+      "addedAt": "2025-11-20T17:49:41.918Z",
+      "addedBy": "admin",
+      "deactivatedAt": null,
+      "deactivatedBy": null
     }
   ]
 }
