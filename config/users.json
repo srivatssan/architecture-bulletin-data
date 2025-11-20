@@ -1,6 +1,4 @@
 {
-  "version": "1.0",
-  "lastUpdated": "2025-11-18T22:30:00Z",
   "users": [
     {
       "id": "user-admin-1",
@@ -31,6 +29,12 @@
       "role": "architect",
       "avatar": "https://ui-avatars.com/api/?name=Bob+Builder&background=3B82F6&color=fff",
       "active": true
+    },
+    {
+      "username": "architect4",
+      "password": "neoioxvHIzsD",
+      "role": "architect",
+      "fullName": "John Do"
     }
   ]
 }
