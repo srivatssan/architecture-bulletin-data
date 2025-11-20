@@ -12,10 +12,19 @@
     "Srivatssan Srinivasan (Making mistakes)"
   ],
   "adminAssigned": false,
-  "attachments": [],
+  "attachments": [
+    {
+      "filename": "bias-map.png",
+      "path": "attachments/post-0001/bias-map.png",
+      "size": 91354,
+      "uploadedBy": "admin",
+      "uploadedAt": "2025-11-20T15:29:46.837Z",
+      "type": "image/png"
+    }
+  ],
   "createdAt": "2025-11-15T10:30:00.000Z",
   "createdBy": "admin",
-  "updatedAt": "2025-11-20T15:29:32.101Z",
+  "updatedAt": "2025-11-20T15:29:47.103Z",
   "updatedBy": "admin",
   "submittedAt": null,
   "submittedBy": null,
