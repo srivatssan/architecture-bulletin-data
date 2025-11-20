@@ -25,8 +25,8 @@
   ],
   "createdAt": "2025-11-15T10:30:00.000Z",
   "createdBy": "admin",
-  "updatedAt": "2025-11-20T15:41:57.755Z",
-  "updatedBy": "admin",
+  "updatedAt": "2025-11-20T15:43:40.104Z",
+  "updatedBy": "architect1",
   "submittedAt": null,
   "submittedBy": null,
   "closedAt": null,
@@ -39,6 +39,23 @@
       "author": "admin",
       "message": "This needs to be delivered today.",
       "timestamp": "2025-11-20T15:35:54.493Z"
+    }
+  ],
+  "proofOfWork": [
+    {
+      "uploadedAt": "2025-11-20T15:43:39.862Z",
+      "uploadedBy": "architect1",
+      "files": [
+        {
+          "name": "ADR-Structure.txt",
+          "path": "attachments/post-0001/proof/1763653419862-ADR-Structure.txt",
+          "size": 14005,
+          "type": "text/plain",
+          "uploadedBy": "architect1",
+          "uploadedAt": "2025-11-20T15:43:39.862Z"
+        }
+      ],
+      "notes": ""
     }
   ]
 }
