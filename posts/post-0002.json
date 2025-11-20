@@ -17,8 +17,8 @@
   "attachments": [],
   "createdAt": "2025-11-10T14:20:00.000Z",
   "createdBy": "admin",
-  "updatedAt": "2025-11-20T17:50:59.049Z",
-  "updatedBy": "admin",
+  "updatedAt": "2025-11-20T17:52:18.999Z",
+  "updatedBy": "architect4",
   "submittedAt": null,
   "submittedBy": null,
   "closedAt": null,
@@ -31,6 +31,11 @@
       "author": "admin",
       "message": "How are you doing?",
       "timestamp": "2025-11-20T17:50:58.803Z"
+    },
+    {
+      "author": "architect4",
+      "message": "Doing great.",
+      "timestamp": "2025-11-20T17:52:18.800Z"
     }
   ]
 }
