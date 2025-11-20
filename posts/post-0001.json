@@ -24,7 +24,7 @@
   ],
   "createdAt": "2025-11-15T10:30:00.000Z",
   "createdBy": "admin",
-  "updatedAt": "2025-11-20T15:29:47.103Z",
+  "updatedAt": "2025-11-20T15:35:54.721Z",
   "updatedBy": "admin",
   "submittedAt": null,
   "submittedBy": null,
@@ -32,5 +32,12 @@
   "closedBy": null,
   "approvedBy": null,
   "isArchived": false,
-  "archivedAt": null
+  "archivedAt": null,
+  "conversations": [
+    {
+      "author": "admin",
+      "message": "This needs to be delivered today.",
+      "timestamp": "2025-11-20T15:35:54.493Z"
+    }
+  ]
 }
