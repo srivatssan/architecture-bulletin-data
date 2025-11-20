@@ -34,6 +34,18 @@
       "addedBy": "admin",
       "deactivatedAt": null,
       "deactivatedBy": null
+    },
+    {
+      "id": "arch-1763655745262",
+      "githubUsername": "kevin",
+      "displayName": "Kevin Hicks",
+      "email": "kevin.hicks@example.com",
+      "specialization": "Information management",
+      "status": "active",
+      "addedAt": "2025-11-20T16:22:25.262Z",
+      "addedBy": "admin",
+      "deactivatedAt": null,
+      "deactivatedBy": null
     }
   ]
 }
