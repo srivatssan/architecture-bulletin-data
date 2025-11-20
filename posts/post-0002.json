@@ -17,7 +17,7 @@
   "attachments": [],
   "createdAt": "2025-11-10T14:20:00.000Z",
   "createdBy": "admin",
-  "updatedAt": "2025-11-20T17:50:43.572Z",
+  "updatedAt": "2025-11-20T17:50:59.049Z",
   "updatedBy": "admin",
   "submittedAt": null,
   "submittedBy": null,
@@ -25,5 +25,12 @@
   "closedBy": null,
   "approvedBy": null,
   "isArchived": false,
-  "archivedAt": null
+  "archivedAt": null,
+  "conversations": [
+    {
+      "author": "admin",
+      "message": "How are you doing?",
+      "timestamp": "2025-11-20T17:50:58.803Z"
+    }
+  ]
 }
