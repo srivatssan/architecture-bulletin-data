@@ -48,18 +48,6 @@
       "deactivatedBy": null
     },
     {
-      "id": "arch-1763656488455",
-      "githubUsername": "demouser",
-      "displayName": "Demo User",
-      "email": "",
-      "specialization": "Nothing.Absolutely Nothing.",
-      "status": "inactive",
-      "addedAt": "2025-11-20T16:34:48.455Z",
-      "addedBy": "admin",
-      "deactivatedAt": "2025-11-20T17:49:12.992Z",
-      "deactivatedBy": "admin"
-    },
-    {
       "id": "arch-1763660981918",
       "githubUsername": "architect4",
       "displayName": "John Do",
