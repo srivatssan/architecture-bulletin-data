@@ -8,7 +8,7 @@
     "devops",
     "security-team"
   ],
-  "status": "status-assigned",
+  "status": "status-pending",
   "assignedArchitects": [
     "architect1",
     "kevin"
@@ -17,7 +17,7 @@
   "attachments": [],
   "createdAt": "2025-11-10T14:20:00.000Z",
   "createdBy": "admin",
-  "updatedAt": "2025-11-20T17:50:28.880Z",
+  "updatedAt": "2025-11-20T17:50:43.572Z",
   "updatedBy": "admin",
   "submittedAt": null,
   "submittedBy": null,
