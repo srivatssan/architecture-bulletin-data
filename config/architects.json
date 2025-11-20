@@ -53,11 +53,11 @@
       "displayName": "Demo User",
       "email": "",
       "specialization": "Nothing.Absolutely Nothing.",
-      "status": "active",
+      "status": "inactive",
       "addedAt": "2025-11-20T16:34:48.455Z",
       "addedBy": "admin",
-      "deactivatedAt": null,
-      "deactivatedBy": null
+      "deactivatedAt": "2025-11-20T17:49:12.992Z",
+      "deactivatedBy": "admin"
     }
   ]
 }
