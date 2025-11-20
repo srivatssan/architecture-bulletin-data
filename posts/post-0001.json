@@ -7,7 +7,7 @@
     "design-team",
     "product-management"
   ],
-  "status": "status-new",
+  "status": "status-submitted",
   "assignedArchitects": [
     "Srivatssan Srinivasan (Making mistakes)",
     "Srivatssan Srinivasan (Making mistakes)"
@@ -25,7 +25,7 @@
   ],
   "createdAt": "2025-11-15T10:30:00.000Z",
   "createdBy": "admin",
-  "updatedAt": "2025-11-20T15:43:56.109Z",
+  "updatedAt": "2025-11-20T15:44:11.686Z",
   "updatedBy": "architect1",
   "submittedAt": null,
   "submittedBy": null,
