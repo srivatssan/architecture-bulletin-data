@@ -1,7 +1,4 @@
 {
-  "version": "1.0",
-  "lastUpdated": "2025-11-18T22:30:00Z",
-  "updatedBy": "admin",
   "architects": [
     {
       "id": "arch-001",
@@ -23,6 +20,17 @@
       "specialization": "Backend Architecture",
       "status": "active",
       "addedAt": "2025-11-18T22:30:00Z",
+      "addedBy": "admin",
+      "deactivatedAt": null,
+      "deactivatedBy": null
+    },
+    {
+      "id": "arch-1763652348413",
+      "displayName": "Srivatssan Srinivasan",
+      "email": "srivatssan.srinivasan@example.com",
+      "specialization": "Making mistakes",
+      "status": "active",
+      "addedAt": "2025-11-20T15:25:48.413Z",
       "addedBy": "admin",
       "deactivatedAt": null,
       "deactivatedBy": null
