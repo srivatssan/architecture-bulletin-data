@@ -5,7 +5,7 @@
   "concernedParties": [
     "architects"
   ],
-  "status": "status-assigned",
+  "status": "status-submitted",
   "assignedArchitects": [
     "Srivatssan Srinivasan (Making mistakes)"
   ],
@@ -22,7 +22,7 @@
   "conversations": [],
   "createdAt": "2025-11-22T19:35:20.701Z",
   "createdBy": "admin",
-  "updatedAt": "2025-11-22T19:44:02.143Z",
+  "updatedAt": "2025-11-22T19:44:09.134Z",
   "updatedBy": "architect1",
   "isArchived": false,
   "proofOfWork": [
