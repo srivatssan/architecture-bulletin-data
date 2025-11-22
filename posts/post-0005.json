@@ -22,7 +22,24 @@
   "conversations": [],
   "createdAt": "2025-11-22T19:35:20.701Z",
   "createdBy": "admin",
-  "updatedAt": "2025-11-22T19:40:34.995Z",
-  "updatedBy": "admin",
-  "isArchived": false
+  "updatedAt": "2025-11-22T19:44:02.143Z",
+  "updatedBy": "architect1",
+  "isArchived": false,
+  "proofOfWork": [
+    {
+      "uploadedAt": "2025-11-22T19:44:01.929Z",
+      "uploadedBy": "architect1",
+      "files": [
+        {
+          "name": "Virginia Department of Motor Vehicles _ dmvNOW.pdf",
+          "path": "attachments/post-0005/proof/1763840641927-Virginia Department of Motor Vehicles _ dmvNOW.pdf",
+          "size": 240469,
+          "type": "application/pdf",
+          "uploadedBy": "architect1",
+          "uploadedAt": "2025-11-22T19:44:01.929Z"
+        }
+      ],
+      "notes": ""
+    }
+  ]
 }
