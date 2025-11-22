@@ -7,11 +7,20 @@
   ],
   "status": "status-new",
   "assignedArchitects": [],
-  "attachments": [],
+  "attachments": [
+    {
+      "filename": "bias-map.png",
+      "path": "attachments/post-0005/bias-map.png",
+      "size": 91354,
+      "uploadedBy": "admin",
+      "uploadedAt": "2025-11-22T19:39:59.152Z",
+      "type": "image/png"
+    }
+  ],
   "conversations": [],
   "createdAt": "2025-11-22T19:35:20.701Z",
   "createdBy": "admin",
-  "updatedAt": "2025-11-22T19:35:20.701Z",
+  "updatedAt": "2025-11-22T19:39:59.373Z",
   "updatedBy": "admin",
   "isArchived": false
 }
